@@ -1,0 +1,15 @@
+{"nombre":"Carlas","apellidos":"Navarro","edad":85,"departamento":"Finanzas","posicion":"Analista financiero"}
+{"nombre":"Tomás","apellidos":"Iglesias","edad":26,"departamento":"IT","posicion":"Desarrollador de software"}
+{"nombre":"pepito","apellidos":"pepito","edad":12,"departamento":"pepito","posicion":"pepito"}
+{"nombre":"Carlos","apellidos":"Navarro","edad":24,"departamento":"Finanzas","posicion":"Analista financiero"}
+{"nombre":"Laura","apellidos":"Martínez","edad":29,"departamento":"Recursos Humanos","posicion":"Especialista en selección"}
+{"nombre":"Andrés","apellidos":"Gómez","edad":35,"departamento":"Marketing y Publicidad","posicion":"Coordinador de campañas"}
+{"nombre":"María","apellidos":"Fernández","edad":31,"departamento":"Comercial","posicion":"Ejecutiva de ventas"}
+{"nombre":"Javier","apellidos":"Pérez","edad":27,"departamento":"Compras","posicion":"Gestor de proveedores"}
+{"nombre":"Sofía","apellidos":"López","edad":33,"departamento":"Logística","posicion":"Supervisora de operaciones"}
+{"nombre":"Diego","apellidos":"Ramírez","edad":40,"departamento":"Gestión y Administración","posicion":"Administrador general"}
+{"nombre":"Elena","apellidos":"Hernández","edad":45,"departamento":"Directivo","posicion":"Directora general"}
+{"nombre":"Tomás","apellidos":"Iglesias","edad":26,"departamento":"IT","posicion":"Desarrollador de software"}
+{"nombre":"Tomás","apellidos":"Iglesias","edad":45,"departamento":"it","posicion":"Desarrollador de software"}
+{"nombre":"adadasdas","apellidos":"asdasdada","edad":25,"departamento":"adsasd","posicion":"asdasd"}
+{"nombre":"pepe","apellidos":"popo","edad":null,"departamento":"lele","posicion":"lulu"}
