@@ -1,5 +1,6 @@
 "use strict";
 const fs = require("fs");
+require('dotenv').config();
 const mysql = require("mysql2/promise");
 const readline = require("readline");
 const { MongoClient, ObjectId } = require("mongodb"); 
@@ -23,7 +24,8 @@ let tipo_archivo = "";
 let nombre_archivo = "";
 
 // MongoDB
-const mongoUri = "mongodb+srv://bferfer:QZ1zBVzYrZilu6d4@cluster0.tgbjhs7.mongodb.net/Ficha_RH?retryWrites=true&w=majority";
+const mongoPassword = process.env.MONGO_PASSWORD;
+const mongoUri = `mongodb+srv://bferfer:${mongoPassword}@cluster0.tgbjhs7.mongodb.net/Ficha_RH?retryWrites=true&w=majority`;
 const mongoClient = new MongoClient(mongoUri);
 let mongoDB, mongoCollection;
 
